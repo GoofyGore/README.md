@@ -26,7 +26,7 @@ const archie = {
   pronouns: "he" | "him",
   code: {
      Frontend: [React, StyledComponents],
-     Backend: [Node, Python],
+     Backend: [NodeJs, Django],
      SmartContracts: [Solidity, Solana]
  },
   tools: [Figma, Redux, Photoshop, Jira]
