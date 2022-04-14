@@ -22,19 +22,18 @@
  
 
  ```javascript
-const archie = {
+const treze = {
   pronouns: "he" | "him",
   code: {
-     Frontend: [React, StyledComponents],
-     Backend: [NodeJs, Django],
-     SmartContracts: [Solidity, Solana]
+     Frontend: [React Native],
+     Backend: [NodeJs],
  },
-  tools: [Figma, Redux, Photoshop, Jira]
+  tools: [Figma, Photoshop, Jira, Trello, Git]
 }
 ```
  
  <div align="center">
-<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="55" align="center"><img src="https://i.osmarks.net/ferris.gif" width="55" align="center">
+<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="55" align="center"><img src="https://codetru.com/images/all/nodejsdis.gif" width="55" align="center">
   
   </br>
  <a href="https://archlinux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"</a>
