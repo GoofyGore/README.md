@@ -26,18 +26,20 @@ const treze = {
   pronouns: "he" | "him",
   code: {
      Frontend: [React Native],
-     Backend: [NodeJs],
+     Backend: [NodeJs, Java],
  },
-  tools: [Figma, Photoshop, Jira, Trello, Git]
+  tools: [Figma, Trello, Git]
 }
 ```
  
- <div align="center">
-<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="55" align="center"><img src="https://codetru.com/images/all/nodejsdis.gif" width="55" align="center">
-  
+<div align="center">
+ 
+ 
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+ <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
   </br>
- <a href="https://archlinux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"</a>
- <a href="https://webassembly.org/" target="_blank"> <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white" </a>
+ <a href="https://www.apple.com/br/macos/monterey/" target="_blank"> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)"></a>
+ <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"></a>
 
 </div>
  
