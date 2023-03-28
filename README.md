@@ -25,8 +25,8 @@
 const treze = {
   pronouns: "he" | "him",
   code: {
-     Frontend: [React Native],
-     Backend: [NodeJs, Java],
+     Frontend: [React/React Native, Next.js],
+     Backend: [Spring],
  },
   tools: [Figma, Trello, Git]
 }
@@ -35,11 +35,14 @@ const treze = {
 <div align="center">
  
  
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
- <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+ <a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
   </br>
+   <a href="https://spring.io/" target="_blank"> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
  <a href="https://www.apple.com/br/macos/monterey/" target="_blank"> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)"></a>
- <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"></a>
+ 
+ 
+
 
 </div>
  
