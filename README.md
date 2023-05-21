@@ -22,11 +22,11 @@
  
 
  ```javascript
-const treze = {
+const mxxm = {
   pronouns: "he" | "him",
   code: {
-     Frontend: [React/React Native, Next.js],
-     Backend: [Spring],
+     Frontend: [React, NextJS],
+     Backend: [Rust, Go, Zig],
  },
   tools: [Figma, Trello, Git]
 }
@@ -38,7 +38,7 @@ const treze = {
   <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
  <a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
   </br>
-   <a href="https://spring.io/" target="_blank"> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
+   <a href="https://ziglang.org/" target="_blank"> <img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white"></a>
  <a href="https://www.apple.com/br/macos/monterey/" target="_blank"> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)"></a>
  
  
